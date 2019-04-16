@@ -1,0 +1,5 @@
+Madus,2.22
+Maali,3.22
+Toomas,4.2
+Kaali,4.75
+Peeter,5.0
